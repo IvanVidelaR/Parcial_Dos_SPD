@@ -1,7 +1,7 @@
 # PARCIAL 2 SPD - PARTE PRÁCTICA DOMICILIARIA - VIDELA R. IVÁN A.
 ![Tinkercad](./img/ArduinoTinkercad.jpg)
 
-## Proyecto: Montacargas
+## Proyecto: Sistema de incendios
 ![Tinkercad](./img/sistemadeincendios.png)
 
 ## Objetivo
