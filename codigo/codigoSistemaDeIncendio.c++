@@ -56,9 +56,9 @@ void loop()
     }
 } 
 
-void prenderApagarLedsServoIncendio(int grados)
+void prenderApagarLedsServoIncendio(int temperatura)
 {
-    if(grados >= 60)
+    if(temperatura >= 60)
     {
         prenderLed(LED_ROJO);
         apagarLed(LED_VERDE);
